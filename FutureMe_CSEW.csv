@@ -1,4 +1,4 @@
-﻿sex,Employed,HousingTenure,livharm1,AgeGroup,Ethnicity,HighestQual,DeprivationScore,Victim of crime?,CrimeScore
+﻿sex,Employed,HousingTenure,livharm1,AgeGroup,Ethnicity,HighestQual,DeprScore,Victim,CrimeScore
 Female,Yes,Buying it with the help of a mortgage or loan,Single,45-54,White,Degree or diploma,2,Not a victim of crime,3
 Female,No,Own it outright,Married/Civil Partnered,55-64,White,Degree or diploma,4,Not a victim of crime,0
 Female,No,Rent it,Widowed,55-64,White,Degree or diploma,1,Not a victim of crime,2
